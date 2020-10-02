@@ -18,5 +18,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+The URL to Repo:
+https://github.com/FaranakSabet/Code-Refactor
+
 The URL of the deployed application:
-https://faranaksabet.github.io/Code-Factor/
+https://faranaksabet.github.io/Code-Refactor/
