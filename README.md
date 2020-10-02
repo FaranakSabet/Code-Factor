@@ -23,3 +23,5 @@ https://github.com/FaranakSabet/Code-Refactor
 
 The URL of the deployed application:
 https://faranaksabet.github.io/Code-Refactor/
+
+![Capture](https://user-images.githubusercontent.com/65681350/94973093-a9dc8c00-04bf-11eb-87da-6d7cad3ce8e3.PNG)
