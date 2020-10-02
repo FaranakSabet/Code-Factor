@@ -1,4 +1,4 @@
-# Code-Factor(HW-1)
+# Code-Refactor(HW-1)
 
 User Story
 AS A marketing agency
